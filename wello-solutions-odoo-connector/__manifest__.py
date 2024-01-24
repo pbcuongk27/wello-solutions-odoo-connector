@@ -3,7 +3,7 @@
     'version':'1.0',
     'sequence': 1,
     'description':'Wello Solutions Odoo Connector',
-    'author':'Odyssee Field Service',
+    'author':'Wello Solutions',
     'website':'https://wello.solutions/',
     'license':'LGPL-3',
     'installable':'False',
