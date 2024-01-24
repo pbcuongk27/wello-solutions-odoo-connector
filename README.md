@@ -1,0 +1,1 @@
+# wello-solutions-odoo-connector
