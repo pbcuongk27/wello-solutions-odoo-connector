@@ -1,9 +1,9 @@
 {
-    'name': 'Wello Solutions Odoo Connector',
+    'name': 'Wello Odoo Connector',
     'version':'1.0',
     'sequence': 1,
-    'description':'Wello Solutions Odoo Connector',
-    'author':'Wello Solutions',
+    'description':'Wello Odoo Connector',
+    'author':'Wello',
     'website':'https://wello.solutions/',
     'license':'LGPL-3',
     'installable':'False',
